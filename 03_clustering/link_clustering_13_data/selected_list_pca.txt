@@ -1,0 +1,15 @@
+0_nasal 5 0.025
+0_no 2 0.025
+0_non-nasal 2 0.2
+1_nasal 2 0.2
+1_no 2 0.75
+1_non-nasal 4 0.2
+2_nasal 5 0.2
+2_no 2 0.2
+2_non-nasal 4 0.2
+3_nasal 5 0.075
+3_no 2 0.075
+3_non-nasal 3 0.2
+4_nasal 2 0.2
+4_no 2 0.2
+4_non-nasal 2 0.1

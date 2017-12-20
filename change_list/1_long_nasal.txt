@@ -1,0 +1,9 @@
+tscsda12 13
+tscsde23 9
+tscsdl11 33
+tscsdy49 26
+tscsdm28 45
+tscsdl18 20
+tscsdz46 29
+
+< 39.5

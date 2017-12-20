@@ -1,0 +1,7 @@
+tscsdu40 31
+tscsdt16 26
+tscsdp09 47
+tscsdp07 23
+tscsdt34 19
+
+< 40

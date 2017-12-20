@@ -1,0 +1,5 @@
+0_nasal < 15
+1_non-nasal < 15
+2_nasal < 15
+2_non-nasal < 14
+4_no < 17

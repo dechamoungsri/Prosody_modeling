@@ -1,0 +1,16 @@
+tscsdo32 17
+tscsdp06 33
+tscsdx20 29
+tscsdl01 8 
+tscsdt07 24
+tscsdi40 26
+tscsda02 38
+tscsdu37 20
+tscsdy36 10
+tscsdz28 37
+tscsdx27 18
+tscsdt20 42
+tscsdl50 7
+tscsdm40 41
+
+< 30

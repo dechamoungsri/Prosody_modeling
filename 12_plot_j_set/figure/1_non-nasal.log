@@ -1,0 +1,1080 @@
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (euc) (Web2C 2015) (preloaded format=platex 2015.8.18)  6 DEC 2016 23:25
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./1_non-nasal.tex
+(./1_non-nasal.tex
+pLaTeX2e <2006/11/10> (based on LaTeX2e <2015/01/01> patch level 2)
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen118
+)
+(/usr/local/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+(/usr/local/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen119
+\Gm@wd@mp=\dimen120
+\Gm@odd@mp=\dimen121
+\Gm@even@mp=\dimen122
+\Gm@layoutwidth=\dimen123
+\Gm@layoutheight=\dimen124
+\Gm@layouthoffset=\dimen125
+\Gm@layoutvoffset=\dimen126
+\Gm@dimlist=\toks16
+)
+(/usr/local/share/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/local/share/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 142.
+
+(/usr/local/share/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
+)
+(/usr/local/share/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
+))
+(/usr/local/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2014/09/25 3.9l The Babel package
+
+(/usr/local/share/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/local/share/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2014/09/25 3.9l Babel common definitions
+\babel@savecnt=\count92
+\U@D=\dimen127
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/local/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/share/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 94.
+)
+\Gin@req@height=\dimen128
+\Gin@req@width=\dimen129
+)
+No file 1_non-nasal.aux.
+\openout1 = `1_non-nasal.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(28.45274pt, 557.38951pt, 28.45274pt)
+* v-part:(T,H,B)=(28.45274pt, 738.0645pt, 28.45274pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=557.38951pt
+* \textheight=738.0645pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-80.81725pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj07_34.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj07_34.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj08_20.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj08_20.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj50_7.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj50_7.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj07_27.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj07_27.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj31_13.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj31_13.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj19_16.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj19_16.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj07_3.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj07_3.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj15_31.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj15_31.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj02_11.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj02_11.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj09_20.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj09_20.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj45_40.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj45_40.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj34_14.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj34_14.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj42_17.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj42_17.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj34_11.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj34_11.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj27_17.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj27_17.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj03_29.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj03_29.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj02_19.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj02_19.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj03_11.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj03_11.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj38_29.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj38_29.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj20_25.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj20_25.eps> [1]
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj41_3.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj41_3.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj41_2.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj41_2.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj39_6.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj39_6.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj25_3.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj25_3.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj36_10.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj36_10.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj15_11.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj15_11.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj33_13.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj33_13.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj41_12.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj41_12.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj06_9.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj06_9.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj23_9.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj23_9.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj44_14.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj44_14.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj43_54.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj43_54.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj01_6.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj01_6.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj34_10.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj34_10.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj33_25.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj33_25.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj45_26.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj45_26.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj07_16.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj07_16.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj14_64.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj14_64.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj33_46.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj33_46.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj21_3.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj21_3.eps> [2]
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj10_25.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj10_25.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj41_17.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj41_17.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj03_2.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj03_2.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj06_44.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj06_44.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj43_63.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj43_63.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj45_6.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj45_6.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj35_19.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj35_19.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj46_7.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj46_7.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj41_13.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj41_13.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj42_19.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj42_19.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj30_49.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj30_49.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj04_50.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj04_50.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj12_28.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj12_28.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj15_21.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj15_21.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj07_25.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj07_25.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj06_21.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj06_21.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj14_2.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj14_2.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj15_27.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj15_27.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj14_19.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj14_19.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj12_18.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj12_18.eps> [3]
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj23_34.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj23_34.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj39_23.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj39_23.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj38_11.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj38_11.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj27_24.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj27_24.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj12_3.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj12_3.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj26_31.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj26_31.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj43_39.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj43_39.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj39_54.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj39_54.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj36_5.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj36_5.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj18_20.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj18_20.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj19_13.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj19_13.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj37_14.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj37_14.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj20_23.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj20_23.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj18_5.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj18_5.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj39_49.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj39_49.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj30_38.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj30_38.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj41_5.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj41_5.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj31_9.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj31_9.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj46_27.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj46_27.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj04_42.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj04_42.eps> [4]
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj31_22.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj31_22.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj38_12.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj38_12.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj25_17.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj25_17.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj23_39.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj23_39.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj16_3.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj16_3.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj30_37.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj30_37.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj07_14.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj07_14.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj44_18.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj44_18.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj18_37.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj18_37.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj14_42.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj14_42.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj37_38.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj37_38.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj14_9.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj14_9.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj20_14.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj20_14.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj45_41.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj45_41.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj38_14.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj38_14.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj41_15.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj41_15.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj06_27.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj06_27.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj42_12.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj42_12.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj13_25.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj13_25.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj09_17.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj09_17.eps> [5]
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj18_27.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj18_27.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj43_32.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj43_32.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj49_28.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj49_28.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj31_35.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj31_35.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj17_2.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj17_2.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj07_5.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj07_5.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj42_13.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj42_13.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj26_7.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj26_7.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj11_7.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj11_7.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj10_17.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj10_17.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj23_11.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj23_11.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj43_24.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj43_24.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj06_36.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj06_36.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj06_48.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj06_48.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj23_13.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj23_13.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj47_23.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj47_23.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj49_31.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj49_31.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj37_21.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj37_21.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj27_25.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj27_25.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj48_28.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj48_28.eps> [6]
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj05_3.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj05_3.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj23_3.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj23_3.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj37_29.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj37_29.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj38_30.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj38_30.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj18_33.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj18_33.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj30_63.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj30_63.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj12_10.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj12_10.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj30_47.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj30_47.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj29_17.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj29_17.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj16_6.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj16_6.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj49_3.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj49_3.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj50_23.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj50_23.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj07_7.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj07_7.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj12_36.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj12_36.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj07_48.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj07_48.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj50_27.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj50_27.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj32_3.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj32_3.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj16_24.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj16_24.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj48_23.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj48_23.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj49_6.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj49_6.eps> [7]
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj26_22.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj26_22.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj36_30.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj36_30.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj49_12.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj49_12.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj06_25.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj06_25.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj39_20.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj39_20.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj46_6.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj46_6.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj39_37.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj39_37.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj40_12.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj40_12.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj03_20.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj03_20.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj24_10.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj24_10.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj46_20.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj46_20.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj22_31.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj22_31.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj17_34.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj17_34.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj34_36.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj34_36.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj35_4.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj35_4.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj50_16.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj50_16.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj46_38.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj46_38.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj30_19.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj30_19.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj21_4.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj21_4.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj43_20.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj43_20.eps> [8]
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj08_23.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj08_23.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj18_11.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj18_11.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj37_32.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj37_32.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj23_22.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj23_22.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj15_32.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj15_32.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj06_38.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj06_38.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj45_27.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj45_27.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj17_40.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj17_40.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj43_49.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj43_49.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj35_10.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj35_10.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj14_10.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj14_10.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj49_36.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj49_36.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj23_54.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj23_54.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj03_30.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj03_30.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj06_31.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj06_31.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj50_13.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj50_13.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj04_51.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj04_51.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj36_24.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj36_24.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj17_13.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj17_13.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj04_6.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj04_6.eps> [9]
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj10_12.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj10_12.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_long_non-nasal/tscsdj49_72.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_long_non-nasal/tscsdj49_72.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/1_short_non-nasal/tscsdj22_39.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/1
+_short_non-nasal/tscsdj22_39.eps> [10] (./1_non-nasal.aux) ) 
+Here is how much of TeX's memory you used:
+ 2030 strings out of 493781
+ 45500 string characters out of 6148352
+ 92865 words of memory out of 5000000
+ 5367 multiletter control sequences out of 15000+600000
+ 7519 words of font info for 31 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 25i,5n,29p,288b,340s stack positions out of 5000i,2500n,10000p,300000b,80000s
+
+Output written on 1_non-nasal.dvi (10 pages, 57612 bytes).

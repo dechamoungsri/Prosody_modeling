@@ -1,0 +1,8 @@
+tscsdo02 23 
+tscsdf33 84
+tscsdo04 5
+tscsdt17 4
+tscsdi15 38
+tscsdo40 39
+
+< 20

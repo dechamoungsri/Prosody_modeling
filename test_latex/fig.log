@@ -1,0 +1,189 @@
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (euc) (Web2C 2015) (preloaded format=platex 2015.8.18)  2 NOV 2016 16:19
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./fig.tex
+(./fig.tex
+pLaTeX2e <2006/11/10> (based on LaTeX2e <2015/01/01> patch level 2)
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen118
+)
+(/usr/local/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+(/usr/local/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen119
+\Gm@wd@mp=\dimen120
+\Gm@odd@mp=\dimen121
+\Gm@even@mp=\dimen122
+\Gm@layoutwidth=\dimen123
+\Gm@layoutheight=\dimen124
+\Gm@layouthoffset=\dimen125
+\Gm@layoutvoffset=\dimen126
+\Gm@dimlist=\toks16
+)
+(/usr/local/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2014/09/25 3.9l The Babel package
+
+(/usr/local/share/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/local/share/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2014/09/25 3.9l Babel common definitions
+\babel@savecnt=\count92
+\U@D=\dimen127
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/local/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/share/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 94.
+
+(/usr/local/share/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
+))
+\Gin@req@height=\dimen128
+\Gin@req@width=\dimen129
+) (./fig.aux)
+\openout1 = `fig.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(28.45274pt, 557.38951pt, 28.45274pt)
+* v-part:(T,H,B)=(28.45274pt, 738.0645pt, 28.45274pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=557.38951pt
+* \textheight=738.0645pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-80.81725pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/0_long_no/tscsdb19_9.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/0
+_long_no/tscsdb19_9.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/0_long_no/tscsdb19_9.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/0
+_long_no/tscsdb19_9.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/0_long_no/tscsdb19_9.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/0
+_long_no/tscsdb19_9.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/0_long_no/tscsdb19_9.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/0
+_long_no/tscsdb19_9.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/0_long_no/tscsdb19_9.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/0
+_long_no/tscsdb19_9.eps>
+File: /work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconson
+ant/0_long_no/tscsdb19_9.eps Graphic file (type eps)
+
+</work/w2/decha/Data/GPR_speccom_data/figure/lf0_plot_by_vowel_finalconsonant/0
+_long_no/tscsdb19_9.eps>
+Underfull \hbox (badness 1478) in paragraph at lines 14--45
+[][] [] [] []
+ []
+
+[1] (./fig.aux) ) 
+Here is how much of TeX's memory you used:
+ 1411 strings out of 493781
+ 18633 string characters out of 6148352
+ 88137 words of memory out of 5000000
+ 4938 multiletter control sequences out of 15000+600000
+ 7519 words of font info for 31 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 25i,4n,29p,266b,328s stack positions out of 5000i,2500n,10000p,300000b,80000s
+
+Output written on fig.dvi (1 page, 1532 bytes).

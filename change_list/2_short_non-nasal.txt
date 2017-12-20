@@ -1,0 +1,5 @@
+tscsdx02 31
+tscsdl41 37
+tscsdl47 25
+
+< 30

@@ -1,0 +1,8 @@
+tscsdu44 56
+tscsdu01 30
+tscsdt31 4
+tscsdy34 7
+tscsdu01 9 
+tscsdf23 20
+
+< 28

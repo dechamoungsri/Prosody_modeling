@@ -1,0 +1,8 @@
+tscsdw26 35
+tscsdl38 27
+tscsdl01 17
+tscsdm09 10
+tscsdu44 25
+tscsdp15 30
+
+< 34.0

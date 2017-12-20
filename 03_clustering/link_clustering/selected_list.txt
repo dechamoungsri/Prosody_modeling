@@ -1,0 +1,11 @@
+0_long_nasal 2 0.025
+0_short_nasal 5 0.05
+0_long_no 2 0.1
+0_long_non-nasal 3 0.1
+0_short_non-nasal 2 0.1
+1_long_nasal 3 0.025
+1_short_nasal 3 0.025
+1_long_no 2 0.1
+1_short_no
+1_long_non-nasal
+1_short_non-nasal
